@@ -3,7 +3,8 @@
 This is a simple Python-based Password Generator that creates strong, customizable passwords based on user preferences. It helps you generate secure passwords containing letters, numbers, and special characters, depending on your selected options.
 
  **Features**
-Generate passwords of a user-defined minimum length
+Generate passwords of a user-defined minimum length 
+
 Option to include numbers
 Option to include special characters
 Ensures all required character types are included
